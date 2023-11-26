@@ -1,2 +1,2 @@
-# Ola mundo
+# Olá, mundo!
  Projeto curso git e GitHub
